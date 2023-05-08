@@ -30,7 +30,7 @@ Tecnologías que utilizo:
 
 ## ¿Quieres hablar conmigo? ¡Contáctame!
 
-Email: matias.henriquez.dev@gmail.com
+Email: matias.henriquez.dev@gmail.com <br />
 Tel: +5493541707188
 
 <!--
