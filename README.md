@@ -1,6 +1,9 @@
-### ¡Hola Mundo! 👋 Mi nombre es Matías Henríquez
+# ¡Hola Mundo! 👋 <br />
 
-Sobre mí:
+Mi nombre es Matías Henríquez
+<hr />
+
+## Sobre mí:
 Soy desarrollador web FullStack Junior.
 Amo la programación desde los 17 años, cuando conocí mi primer lenguaje: C++.
 
