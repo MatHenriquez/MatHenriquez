@@ -28,6 +28,10 @@ Tecnologías que utilizo:
 - PostgreSQL
 - Git / Github
 
+## ¿Quieres hablar conmigo? ¡Contáctame!
+
+Email: matias.henriquez.dev@gmail.com
+Tel: +5493541707188
 
 <!--
 **MatHenriquez/MatHenriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
