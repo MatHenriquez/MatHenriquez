@@ -1,22 +1,22 @@
-# ¡Hola Mundo! 👋 <br />
+# ¡Hello World! 👋 <br />
 
-Mi nombre es Matías Henríquez
+My name is Matías Henríquez
 <hr />
 
-## Sobre mí: <br />
-Soy desarrollador web FullStack Junior. <br />
-Amo la programación desde los 17 años, cuando conocí mi primer lenguaje: C++. <br />
+## About me: <br />
+I'm a Full Stack Web Developer. <br />
+I love programming since my 17 years when I met my first coding language: C++. <br />
 <hr />
 
-## Mis tareas: <br />
-Actualmente me dedico a desarrollar páginas web como programador FullStack de manera independiente, con el objetivo de profundizar mis conocimientos en JavaScript, HTML, CSS, React, Redux, Next, Node, PostgreSQL; así como también, adquirir conocimientos en nuevos lenguajes y frameworks.
+## My tasks: <br />
+Currently I develop websites as a freelance FullStack programmer, with the goal of deepening my knowledge in JavaScript, HTML, CSS, React, Redux, Next, Node, PostgreSQL; as well as acquiring knowledge in new languages and frameworks..
 
 <hr />
 
-## Mis Objetivos: <br />
-Busco ofrecer mis servicios a empresas que requieran un desarrollo en aplicaciones web complejas y completas. Para, de esta manera, obtener práctica y experiencia en las mejores prácticas de programación web.
+## My goals: <br />
+I am looking to offer my services to companies that require complex and complete web application development. To, in this way, gain practice and experience in web programming best practices.
 
-Tecnologías que utilizo:
+Technologies I use::
 - JavaScript
 - HTML
 - CSS
@@ -28,10 +28,10 @@ Tecnologías que utilizo:
 - PostgreSQL
 - Git / Github
 
-## ¿Quieres hablar conmigo? ¡Contáctame!
+## Do you want to talk to me? Contact me!
 
 Email: matias.henriquez.dev@gmail.com <br />
-Tel: +5493541707188
+Cel: +5493541707188
 
 <!--
 **MatHenriquez/MatHenriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
