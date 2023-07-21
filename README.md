@@ -1,15 +1,15 @@
 # ¡Hello World! 👋 <br />
 
-My name is Matías Henríquez
+My name is Matías Henríquez 😄😄
 <hr />
 
-## About me: <br />
+##💬 About me: <br />
 I'm a Full Stack Web Developer. <br />
 I love programming since my 17 years when I met my first coding language: C++. <br />
 <hr />
 
 ## My tasks: <br />
-Currently I develop websites as a freelance FullStack programmer, with the goal of deepening my knowledge in JavaScript, HTML, CSS, React, Redux, Next, Node, PostgreSQL; as well as acquiring knowledge in new languages and frameworks..
+Currently I develop websites as a freelance FullStack programmer, with the goal of deepening my knowledge in JavaScript, React, Node, PostgreSQL, MongoDB; as well as acquiring knowledge in new languages and frameworks such as C#..
 
 <hr />
 
@@ -28,7 +28,7 @@ Technologies I use::
 - PostgreSQL
 - Git / Github
 
-## Do you want to talk to me? Contact me!
+##📫 Did you read something you liked? Contact me!
 
 Email: matias.henriquez.dev@gmail.com <br />
 Cel: +5493541707188
