@@ -3,7 +3,7 @@
 My name is Matías Henríquez 😄😄
 <hr />
 
-##About me: 💬💬 <br />
+## About me: 💬💬 <br />
 I'm a Full Stack Web Developer. <br />
 I love programming since my 17 years when I met my first coding language: C++. <br />
 <hr />
@@ -28,7 +28,7 @@ Technologies I use:
 - PostgreSQL
 - Git / Github
 
-##Did you read something you liked? Contact me! 📫 
+## Did you read something you liked? Contact me! 📫 
 
 Email: matias.henriquez.dev@gmail.com <br />
 Cel: +5493541707188
