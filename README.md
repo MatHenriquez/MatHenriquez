@@ -16,7 +16,7 @@ Currently I develop websites as a freelance FullStack programmer, with the goal 
 ## My goals: <br />
 I am looking to offer my services to companies that require complex and complete web application development. To, in this way, gain practice and experience in web programming best practices.
 
-Technologies I use:
+## Technologies I use:
 - JavaScript
 - HTML
 - CSS
