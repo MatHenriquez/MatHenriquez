@@ -1,10 +1,10 @@
-# ¡Hello World! 👋 <br />
+# 👋 ¡Hello World!<br />
 
-My name is Matías Henríquez 😄😄 <br />
+😄😄 My name is Matías Henríquez<br />
 (You can call me Matt 😉)
 <hr />
 
-## About me: 💬💬 <br />
+## 💬💬  About me:<br />
 I'm a Full Stack Web Developer from Argentina and I love programming since my 17 years when I met my first coding language: C++ <br /> <br />
 Although it took me a long time to decide to leave my previous studies (where programming was a secondary tool) to dedicate myself to Software Development, in the end it became too evident that this was my passion. <br /> <br />
 After dabbling in areas such as microcontroller development using Assembler and C++ and creating mobile applications with Java, I found my true calling: Web Development, which allows me to be part of the dream of enabling people to showcase their businesses and services to the whole world.
