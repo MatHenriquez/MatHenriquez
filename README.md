@@ -41,6 +41,6 @@ I seek to gain great skill in the use of the technologies required to develop, t
 
 <hr>
 
-## Any questions or ideas you would like to share with me? Contact me! 📫 
+## Any questions or ideas to share? Contact me! 📫 
 
 **Email**: matias.henriquez.dev@gmail.com <br />
