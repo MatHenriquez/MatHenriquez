@@ -37,8 +37,8 @@ I seek to gain great skill in the use of the technologies required to develop, t
 
 
 
-### Top 3 Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatHenriquez&langs_count=3&theme=algolia)
+### My Favorite Languages
+![Top 5 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatHenriquez&langs_count=3&theme=algolia)
 
 
 <hr>
